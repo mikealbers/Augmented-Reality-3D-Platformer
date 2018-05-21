@@ -8,6 +8,8 @@ to build / interact with a real world environment.
 
 <kbd><img src="img/platform-demo.gif" style="width: 500px;"></kbd>
 
+<kbd><img src="img/platform-jump.png" style="width: 500px;"></kbd>
+
 #### By Mike Albers
 
 ## Technologies Used
